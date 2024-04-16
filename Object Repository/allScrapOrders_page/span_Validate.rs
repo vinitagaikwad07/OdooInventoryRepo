@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Validate</name>
+   <tag></tag>
+   <elementGuidId>efd4e227-9655-4824-b015-3ee868a1d4e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button[name=&quot;action_validate&quot;] > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[4]/following::span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Validate&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>32765108-3047-4527-ae70-bba8f74b50af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Validate</value>
+      <webElementGuid>958d35b4-c1cb-47fa-8254-a377f1d5cb3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_form_view o_view_controller o_action&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_renderer o_form_editable d-flex flex-column o_form_dirty&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_statusbar position-relative d-flex justify-content-between mb-0 mb-md-2 pb-2 pb-md-0&quot;]/div[@class=&quot;o_statusbar_buttons d-flex align-items-center align-content-around flex-wrap gap-1&quot;]/button[@class=&quot;btn btn-primary&quot;]/span[1]</value>
+      <webElementGuid>2be7019f-9b5b-455d-9ad1-5581b81fd652</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[4]/following::span[2]</value>
+      <webElementGuid>3716ed05-7005-4f33-8fb3-66f25e70d414</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scrap Orders'])[1]/following::span[3]</value>
+      <webElementGuid>83d00aa4-b4ef-42f0-8ce3-815c6ee829bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[1]/preceding::span[1]</value>
+      <webElementGuid>60572616-40f0-43e2-980f-ec5d6624a663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Done'])[1]/preceding::span[1]</value>
+      <webElementGuid>d4967aa4-b287-4443-8971-790a9889d37c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Validate']/parent::*</value>
+      <webElementGuid>64806661-7ddd-4139-95a7-497f7e6b3174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/button/span</value>
+      <webElementGuid>22b861de-dafb-451f-8dff-45caf8be7164</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Validate' or . = 'Validate')]</value>
+      <webElementGuid>0b41bfc3-dd16-4cb8-b3d3-ef139c9f7df9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_WH2Scrap</name>
+   <tag></tag>
+   <elementGuidId>29eae205-7e10-4b34-be91-7b1556a7df2f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Scrap Location'])[1]/following::a[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-item.ui-menu-item-wrapper.text-truncate.ui-state-active</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;WH2/Scrap&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>883f06ea-6d14-4522-8755-c466081bbfeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>92d45bed-ef72-43ce-955a-cbd69464e6c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-item ui-menu-item-wrapper text-truncate ui-state-active</value>
+      <webElementGuid>3dd80320-4f11-4161-9b1e-74e008f228f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WH2/Scrap</value>
+      <webElementGuid>bdfcd584-2bb5-4db6-b7e5-189d14a9916c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;o_web_client&quot;]/div[@class=&quot;o_action_manager&quot;]/div[@class=&quot;o_form_view o_view_controller o_action&quot;]/div[@class=&quot;o_form_view_container&quot;]/div[@class=&quot;o_content&quot;]/div[@class=&quot;o_form_renderer o_form_editable d-flex flex-column o_form_dirty&quot;]/div[@class=&quot;o_form_sheet_bg&quot;]/div[@class=&quot;o_form_sheet position-relative&quot;]/div[@class=&quot;o_group row align-items-start&quot;]/div[@class=&quot;o_inner_group grid col-lg-6&quot;]/div[@class=&quot;o_wrap_field d-flex d-sm-contents flex-column mb-3 mb-sm-0&quot;]/div[@class=&quot;o_cell o_wrap_input flex-grow-1 flex-sm-grow-0 text-break&quot;]/div[@class=&quot;o_field_widget o_required_modifier o_field_many2one&quot;]/div[@class=&quot;o_field_many2one_selection&quot;]/div[@class=&quot;o_input_dropdown&quot;]/div[@class=&quot;o-autocomplete dropdown&quot;]/ul[@class=&quot;o-autocomplete--dropdown-menu ui-widget show dropdown-menu ui-autocomplete&quot;]/li[@class=&quot;o-autocomplete--dropdown-item ui-menu-item d-block&quot;]/a[@class=&quot;dropdown-item ui-menu-item-wrapper text-truncate ui-state-active&quot;]</value>
+      <webElementGuid>30d8e504-1f5a-4ca3-9906-40f125d286dd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Scrap Location'])[1]/following::a[3]</value>
+      <webElementGuid>3011d995-ff50-494c-b6d4-8028bad2bf6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Location'])[1]/following::a[3]</value>
+      <webElementGuid>85fbaa40-e86d-4a51-bb4e-368d23c2c348</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Document'])[1]/preceding::a[3]</value>
+      <webElementGuid>2e6d8224-6406-4298-8686-79f53edfd958</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WH2/Scrap']/parent::*</value>
+      <webElementGuid>8db985f5-51e6-44fe-8ae0-660c4db05aaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>a8d70192-bdbf-4f66-9b49-1f8c7f5bae47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>bc645dda-730d-4bb6-9413-7081d3255037</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'WH2/Scrap' or . = 'WH2/Scrap')]</value>
+      <webElementGuid>30d268e5-7482-4249-9555-0ea8bcf5cb32</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

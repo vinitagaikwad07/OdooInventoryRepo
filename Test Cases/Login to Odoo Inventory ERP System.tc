@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login to Odoo Inventory ERP System</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>07e6364b-4f64-4380-9049-b267c5d4afad</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>c76114f0-e0c4-4a46-8f12-d055516db1f2</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>c76114f0-e0c4-4a46-8f12-d055516db1f2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>e79ef5ae-bb81-4eb4-ac72-85bfacf6a8f8</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>c76114f0-e0c4-4a46-8f12-d055516db1f2</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>2451d822-fc41-4ca7-9b52-8611e3f0e5db</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'boybawang1900@gmail.com'</defaultValue>
+      <description></description>
+      <id>e79ef5ae-bb81-4eb4-ac72-85bfacf6a8f8</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>'OdooLogin@1234'</defaultValue>
+      <description></description>
+      <id>2451d822-fc41-4ca7-9b52-8611e3f0e5db</id>
+      <masked>false</masked>
+      <name>Password</name>
+   </variable>
+</TestCaseEntity>

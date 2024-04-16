@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Move stocks from warehouse to scrap</name>
+   <tag>Scrap Inventory</tag>
+   <comment></comment>
+   <testCaseGuid>cc0ea63c-fda6-44da-a8b9-5fdc131b0fc5</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>780f79bd-5b50-4735-bc66-25fcb6a3257c</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>780f79bd-5b50-4735-bc66-25fcb6a3257c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>0f21480e-da78-403b-9fc3-2330f7298593</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>780f79bd-5b50-4735-bc66-25fcb6a3257c</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>9e1e8bf7-e2b7-4233-b81b-80cd1c89ba88</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f21480e-da78-403b-9fc3-2330f7298593</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9e1e8bf7-e2b7-4233-b81b-80cd1c89ba88</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
