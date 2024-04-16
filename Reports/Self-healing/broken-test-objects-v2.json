@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/newScrapOders_page/span_Done",
+      "brokenLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027WH1/Scrap\u0027])[1]/following::span[1]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//*/text()[normalize-space(.)\u003d\u0027Done\u0027]/parent::*",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/newScrapOders_page/span_Done_neighbor.png"
+    }
+  ]
+}

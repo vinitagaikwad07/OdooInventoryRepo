@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+API Testing,,,,05-04-2024 10:52:49,05-04-2024 10:52:52,2.624s,PASSED
+,,,,,,,
+Test Cases/restful-booker API Testing,,restful-booker API Testing,,05-04-2024 10:52:49,05-04-2024 10:52:52,2.371s,PASSED
+"sendRequest(findTestObject(""restful-booker_GetBookingIds""))",,,,05-04-2024 10:52:50,05-04-2024 10:52:52,2.055s,PASSED
+Start listener action : sampleAfterTestCase,,,,05-04-2024 10:52:52,05-04-2024 10:52:52,0.002s,PASSED

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Replenish Stock from Main Warehouse</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d38e9bdd-aeea-4c12-bff6-15e3eabeb156</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ebffcc5b-5b44-4434-b566-c237c0e036bc</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Login Credentials</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ebffcc5b-5b44-4434-b566-c237c0e036bc</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Email</value>
+      <variableId>fa3ce543-9823-44c1-9345-751581b6c2f0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ebffcc5b-5b44-4434-b566-c237c0e036bc</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>cbf69e8f-d5ec-4fb8-b1de-ecf4a0ff3863</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fa3ce543-9823-44c1-9345-751581b6c2f0</id>
+      <masked>false</masked>
+      <name>Email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cbf69e8f-d5ec-4fb8-b1de-ecf4a0ff3863</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

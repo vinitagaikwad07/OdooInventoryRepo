@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="API Testing" time="2.624" tests="1" failures="0" errors="0">
+   <testsuite name="API Testing" tests="1" failures="0" errors="0" time="2.624" skipped="0" timestamp="05-04-2024T10:52:49" hostname="AlfredoNatividad - PQA-0551LT" id="Test Suites/API Testing">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\AlfredoNatividad\\git\\OdooInventoryKatalonV1\\Reports\\20240405_105234\\API Testing\\20240405_105234"/>
+         <property name="logFiles" value="C:\\Users\\AlfredoNatividad\\git\\OdooInventoryKatalonV1\\Reports\\20240405_105234\\API Testing\\20240405_105234\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="AlfredoNatividad - PQA-0551LT"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+      </properties>
+      <testcase name="Test Cases/restful-booker API Testing" time="2.371" classname="Test Cases/restful-booker API Testing" status="PASSED">
+         <system-out><![CDATA[05-04-2024T10:52:49 - [TEST_CASE][PASSED] - Test Cases/restful-booker API Testing: Test Cases/restful-booker API Testing
+
+05-04-2024T10:52:50 - [TEST_STEP][PASSED] - sendRequest(findTestObject("restful-booker_GetBookingIds")): Send request successfully
+
+05-04-2024T10:52:52 - [MESSAGE][INFO] - HAR: C:\Users\AlfredoNatividad\git\OdooInventoryKatalonV1\Reports\20240405_105234\API Testing\20240405_105234\requests\main\0.har
+
+05-04-2024T10:52:52 - [MESSAGE][PASSED] - Send request successfully
+
+05-04-2024T10:52:52 - [TEST_STEP][PASSED] - Start listener action : sampleAfterTestCase: null]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[05-04-2024T10:52:49 - [TEST_SUITE][PASSED] - API Testing: Test Cases/restful-booker API Testing]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
